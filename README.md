@@ -1,2 +1,1 @@
-# monty
-Monty python programming
+0x19. C - Stacks, Queues - LIFO, FIFO
